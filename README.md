@@ -11,6 +11,7 @@ Grab cam shots from target's phone front camera or PC webcam just sending a link
   <li>Festival Wishing</li>
   <li>Live YouTube TV</li>
    <li>Online Meeting [Beta]</li>
+   <li>Ip Address/Mac Hp Mac Lapto or Pc Ip Address
 </ul>
 <p>simply enter festival name or youtube's video ID</p>
 
@@ -20,6 +21,7 @@ Grab cam shots from target's phone front camera or PC webcam just sending a link
   <li>Termux</li>
   <li>MacOS</li>
   <li>Ubuntu</li>
+  <li>Windows
   <li>Parrot Sec OS</li>
 </ul>
 
